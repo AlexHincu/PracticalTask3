@@ -190,4 +190,8 @@ pull request
 * Отправляем свою версию в свой GitHub
 * На сайте GitHub нажимаем кнопку **pull request**
 
+```sh
+Ссылка на мой репозиторий https://github.com/AlexHincu/PracticalTask3
+```
+
 
